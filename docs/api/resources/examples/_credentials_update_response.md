@@ -5,12 +5,12 @@
 ```json
 {
   "acl": [],
-  "created_at": "2025-05-15T18:01:14Z",
+  "created_at": "2025-05-19T10:06:59Z",
   "description": "device alpha-2",
-  "id": "cr_2x8uZ7dkc6ZNvMnX4mc1G8Qe7lm",
+  "id": "cr_2xJHNzwGYgLy0sEqfKODzxG31Yk",
   "metadata": "{\"device_id\": \"d5111ba7-0cc5-4ba3-8398-e6c79e4e89c2\"}",
-  "owner_id": "usr_2x8uZ0iXIv189UIvRlIrkxe9iVs",
+  "owner_id": "usr_2xJHNm2KooccQwQHqtO0l8G13Wh",
   "token": null,
-  "uri": "https://api.ngrok.com/credentials/cr_2x8uZ7dkc6ZNvMnX4mc1G8Qe7lm"
+  "uri": "https://api.ngrok.com/credentials/cr_2xJHNzwGYgLy0sEqfKODzxG31Yk"
 }
 ```
